@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I am a junior web developer 
-#### Before that I have learned :
+#### Earlier I have learned :
 - Html , Css and Js
 - JQurey
 - AngularJs
 - PHP and MySql
-###### I'm currently learning : 
+#### I'm currently learning : 
 -  Uikit 
 -  MDB
 -  Hybrid mobile application
