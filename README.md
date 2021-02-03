@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####I am a junior web developer 
-####Before that I have learned :
--Html , Css and Js
--JQurey
--AngularJs
--PHP and MySql
-#######I'm currently learning : 
--Uikit 
--MDB
--Hybrid mobile application
--Advanced JavaScript
+### I am a junior web developer 
+#### Before that I have learned :
+- Html , Css and Js
+- JQurey
+- AngularJs
+- PHP and MySql
+####### I'm currently learning : 
+-  Uikit 
+-  MDB
+-  Hybrid mobile application
+-  Advanced JavaScript
