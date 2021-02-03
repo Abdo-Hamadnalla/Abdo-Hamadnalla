@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - JQurey
 - AngularJs
 - PHP and MySql
-####### I'm currently learning : 
+###### I'm currently learning : 
 -  Uikit 
 -  MDB
 -  Hybrid mobile application
