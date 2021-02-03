@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am a junior web developer 
+### I am a junior web developer :smiley:
 #### Earlier I have learned :
 - Html , Css and Js
 - JQurey
